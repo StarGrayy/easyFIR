@@ -1,2 +1,2 @@
 # easyFIR
-Register FIR's easily!
+Register FIR easily through our BlockChain System!
